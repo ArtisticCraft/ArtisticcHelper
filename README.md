@@ -1,6 +1,6 @@
 # ArtisticcHelper
 
-ArtisticCraft 帮助实用程序（正在开发）
+ArtisticCraft 帮助实用程序
 
 # 为何会存在这个
 
